@@ -1,4 +1,4 @@
-# Lab 6 - REST vs gRPC Performance Results
+# Lab 6 - REST vs gRPC Performance Results:
 
 Average time per operation in milliseconds (ms). Local and same-zone tests used 1,000 requests per method; different-region tests used 100 requests per method. PING values are average round-trip times from 10 packets.
 
